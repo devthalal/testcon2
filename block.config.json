@@ -3,8 +3,8 @@
   "type": "containerized",
   "blockId": "mw6pezr57_Iejf-XDUPwz",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/testcon2.git",
+    "ssh": "git@github.com:devthalal/testcon2.git",
     "branch": "block_testcon2"
   },
   "parentBlockIDs": [],
